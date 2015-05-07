@@ -1,5 +1,5 @@
 {
-	"id": "nodebb-theme-rocket",
+	"id": "nodebb-theme-rocket2",
 	"library": "./lib/theme.js",
 	"hooks": [
 		{

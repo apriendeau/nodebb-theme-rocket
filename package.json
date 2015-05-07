@@ -1,11 +1,11 @@
 {
   "name": "nodebb-theme-rocket2",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A theme with a card-based design for NodeBB forums. Mobile enabled.",
   "main": "theme.less",
   "repository": {
     "type": "git",
-    "url": "https://github.com/psychobunny/nodebb-theme-rocket"
+    "url": "https://github.com/apriendeau/nodebb-theme-rocket2"
   },
   "keywords": [
     "nodebb",
@@ -21,7 +21,7 @@
   },
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/psychobunny/nodebb-theme-rocket/issues"
+    "url": "https://github.com/apriendeau/nodebb-theme-rocket2/issues"
   },
   "peerDependencies": {
     "nodebb-theme-vanilla": "~0.2.0"
